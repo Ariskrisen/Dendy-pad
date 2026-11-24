@@ -1,0 +1,6 @@
+{
+  "name": "Dendy Pad",
+  "description": "Эмулятор геймпада Dendy / NES для подключения к телевизору по Bluetooth HID и Wi-Fi с максимальной совместимостью",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

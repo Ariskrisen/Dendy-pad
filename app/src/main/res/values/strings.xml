@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dendy Pad</string>
+    <string name="subtitle_hid">8-BIT BLUETOOTH HID</string>
+    <string name="status_connected">Подключено: %1$s</string>
+    <string name="status_connecting">Подключение к %1$s…</string>
+    <string name="status_ready_pair">Готов к подключению ТВ</string>
+    <string name="status_registering">Регистрация HID-профиля…</string>
+    <string name="status_bt_off">Bluetooth выключен</string>
+    <string name="status_need_perm">Нужно разрешение Bluetooth</string>
+    <string name="status_unsupported">Требуется Android 9+ для Bluetooth HID</string>
+    <string name="action_connect_tv">Подключить ТВ</string>
+    <string name="action_make_discoverable">Видимость для ТВ</string>
+    <string name="action_enable_bt">Включить Bluetooth</string>
+    <string name="action_grant_perm">Разрешить доступ</string>
+    <string name="action_disconnect">Отключить</string>
+    <string name="action_settings">Настройки</string>
+    <string name="action_tv_remote">Пульт ТВ</string>
+    <string name="action_help">Инструкция</string>
+    <string name="label_select">SELECT</string>
+    <string name="label_start">START</string>
+    <string name="label_turbo_a">TURBO A</string>
+    <string name="label_turbo_b">TURBO B</string>
+    <string name="label_a">A</string>
+    <string name="label_b">B</string>
+    <string name="cd_dpad">Крестовина управления</string>
+    <string name="cd_tv_connection">Подключение к телевизору</string>
+    <string name="cd_settings">Настройки совместимости и дизайна</string>
+    <string name="cd_tv_remote">Кнопки управления телевизором</string>
+</resources>
